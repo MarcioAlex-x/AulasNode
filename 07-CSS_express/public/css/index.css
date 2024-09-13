@@ -1,0 +1,21 @@
+form{
+    display: block;
+    max-width: 960px ;
+    margin: 80px auto;
+}
+input{
+    width: 100%;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin-top: 16px;
+    outline: transparent;
+    background-color: transparent;
+}
+input[type='submit']{
+    cursor: pointer;
+    border: none;
+    background-color: greenyellow;
+    color: white;
+    font-weight: bold;
+}
